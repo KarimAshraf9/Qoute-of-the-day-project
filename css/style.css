@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 80px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+header p {
+  font-size: 35px;
+}
+
+header button {
+  width: 250px;
+  height: 80px;
+  color: white;
+  background-color: blue;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+
+header button:hover {
+  background-color: green;
+}
